@@ -1,0 +1,25 @@
+# Essential build tools
+setuptools>=42
+wheel
+
+# Core packages
+streamlit==1.44.1
+pandas==2.2.3
+numpy>=1.23
+scikit-learn==1.6.1
+matplotlib==3.10.0
+seaborn==0.13.2
+xgboost==3.0.0
+statsmodels==0.14.4
+mlxtend==0.23.4
+missingno==0.5.2
+altair==5.5.0
+opencv-python-headless==4.7.0.72  # replaces opencv-python for cloud
+pydeck==0.9.1
+
+# Other essentials
+joblib==1.4.2
+pillow==11.1.0
+requests==2.32.3
+protobuf==5.29.4
+pyyaml==6.0.2
